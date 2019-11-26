@@ -8,4 +8,4 @@ metadata:
 spec:
   containers:
     - name: front-end
-      image: mahendars1/python-webapp
+      image: ${Docker_Image_Version}
